@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; Exploring new technologies and developing software.
+- 🎓 &nbsp; Studying IT in New Bulgarian University.
+- 💼 &nbsp; Working as a Full stack developer in Naicoms ltd.
+- 🌱 &nbsp; Learning more about new web development technologies.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++
+- 💻 &nbsp; PHP | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git
