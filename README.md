@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software.
 - 🎓 &nbsp; Studying IT in New Bulgarian University.
-- 💼 &nbsp; Working as a Full stack developer in Naicoms ltd.
+- 💼 &nbsp; Working as a Full stack developer in Zetta Systems.
 - 🌱 &nbsp; Learning more about new web development technologies.
 
 <h3>🛠 Languages and Tools</h3>
